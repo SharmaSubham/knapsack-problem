@@ -1,4 +1,0 @@
-c:\users\suraw\onedrive\documents\visual studio 2010\Projects\lab4\lab4\bin\Debug\lab4.exe
-c:\users\suraw\onedrive\documents\visual studio 2010\Projects\lab4\lab4\bin\Debug\lab4.pdb
-c:\users\suraw\onedrive\documents\visual studio 2010\Projects\lab4\lab4\obj\x86\Debug\lab4.exe
-c:\users\suraw\onedrive\documents\visual studio 2010\Projects\lab4\lab4\obj\x86\Debug\lab4.pdb
